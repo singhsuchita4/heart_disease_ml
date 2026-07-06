@@ -6,4 +6,5 @@ matplotlib
 imbalanced-learn
 scikit-learn
 Flask
+dill
 #-e .
