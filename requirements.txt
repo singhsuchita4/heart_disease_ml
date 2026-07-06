@@ -1,7 +1,9 @@
+#ipykernel
 pandas
 numpy
 seaborn
 matplotlib
+imbalanced-learn
 scikit-learn
 catboost
 xgboost
